@@ -19,8 +19,8 @@
                     -d <days>
                     The specifieed time is given in days.
 
-  Build with     : gcc -o rummage rummage.c
-                   gcc -o rummage rummage.c -D MAC_OS (on mac machine)
+  Build with     : `gcc -o rummage rummage.c`
+                   `gcc -o rummage rummage.c -D MAC_OS (on mac machine)`
   
   Modifications  :
   
